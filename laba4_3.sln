@@ -5,6 +5,10 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laba4_3", "laba4_3\laba4_3.csproj", "{8C78938C-E51D-467B-B743-8C73843184B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFracTests", "MyFracTests\MyFracTests.csproj", "{2FB00FC0-B053-4EAF-9F9F-C12E10850AFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyComplexTests", "MyComplexTests\MyComplexTests.csproj", "{020B226A-C729-4095-9A46-17F77A85CA99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{8C78938C-E51D-467B-B743-8C73843184B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C78938C-E51D-467B-B743-8C73843184B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C78938C-E51D-467B-B743-8C73843184B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FB00FC0-B053-4EAF-9F9F-C12E10850AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FB00FC0-B053-4EAF-9F9F-C12E10850AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FB00FC0-B053-4EAF-9F9F-C12E10850AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FB00FC0-B053-4EAF-9F9F-C12E10850AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{020B226A-C729-4095-9A46-17F77A85CA99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020B226A-C729-4095-9A46-17F77A85CA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020B226A-C729-4095-9A46-17F77A85CA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020B226A-C729-4095-9A46-17F77A85CA99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
